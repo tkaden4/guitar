@@ -1,0 +1,11 @@
+{
+  "name": "guitar",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
